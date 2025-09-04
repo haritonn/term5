@@ -3,7 +3,7 @@
 
 #align(center)[
   #set text(size: 20pt)
-  \~ #emph("Яндекс Front-End") \~
+  \~ #emph("Яндекс Frontend") \~
 ]
 
 #align(center)[
