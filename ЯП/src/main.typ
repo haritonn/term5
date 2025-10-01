@@ -3,7 +3,7 @@
 
 #align(center)[
   #set text(size: 20pt)
-  \~ #emph("Базы Данных") \~
+  \~ #emph("Методы Вычислений") \~
 ]
 
 #align(center)[
@@ -11,6 +11,6 @@
   #emph("Автор: Пицик Харитон")
 ]
 
-#include("04_09_2025.typ")
-#include("11_09_2025.typ")
-#include("18_09_2025.typ")
+#include("09_09_2025.typ")
+#include("16_09_2025.typ")
+#include("30_09_2025.typ")

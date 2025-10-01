@@ -12,3 +12,6 @@
 ]
 
 #include("03_09_2025.typ")
+#include("10_09_2025.typ")
+#include("17_09_2025.typ")
+#include("01_10_2025.typ")
